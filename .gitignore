@@ -1,0 +1,23 @@
+# macOS generated files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Dependency directories (если вы используете npm или yarn)
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.swp
