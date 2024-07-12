@@ -14,13 +14,12 @@ The HTML file includes the following main components:
 - **Swiper**: Utilizes Swiper.js to create an image gallery with a main view and thumbnail controls.
 
 ## JavaScript
-Menu Toggle: Toggles the visibility of the navigation menu on mobile devices.
-
-- **Swiper Initialization**: Sets up the Swiper instance for the gallery.
-- **Video Pop-up**: Handles the functionality to show and hide the video pop-up.
-- **GSAP Animations**: Adds animations to various elements when the gallery thumbnails are clicked.
+- **Menu Toggle** : Toggles the visibility of the navigation menu on mobile devices.
+- **Swiper Initialization** : Sets up the Swiper instance for the gallery.
+- **Video Pop-up** : Handles the functionality to show and hide the video pop-up.
+- **GSAP Animations** : Adds animations to various elements when the gallery thumbnails are clicked.
 
 ## External Libraries
-- **boxicons**: For icons.
-- **swiper-bundle.min.js**: For creating the swiper gallery.
-- **gsap.min.js**: For animations.
+- **boxicons** : For icons.
+- **swiper-bundle.min.js** : For creating the swiper gallery.
+- **gsap.min.js** : For animations.
