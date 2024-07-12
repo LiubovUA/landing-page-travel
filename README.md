@@ -1,5 +1,9 @@
 # Landing Page Travel HTML CSS JavaScript
 
+## Project Preview
+https://liubovua.github.io/landing-page-travel/
+
+##
 This is a landing page for a travel website, designed to showcase various destinations with interactive features such as a responsive menu, image gallery, video pop-ups, and animations using GSAP.
 
 ## HTML Structure
